@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Name,Email,Phone,City,Product,Category,Quantity,Unit_Price,Payment_Mode
+1001,01-10-2026,Ravi Kumar,ravi@gmail.com,9876543210,Hyderabad,Laptop,Electronics,2,45000,UPI
+1002,02-10-2026,Priya Sharma,priya@gmail.com,9876543211,hyderabad,Mobile,Electronics,1,25000,Cash
+1003,03-10-2026,Arjun Reddy,,9876543212,Bangalore,Mouse,Accessories,3,500,Credit Card
+1004,04-10-2026,Sneha Rao,sneha@gmail.com,,Mumbai,Keyboard,Accessories,2,1200,UPI
+1005,05-10-2026, Rahul Verma ,rahul@gmail.com,9876543214,Delhi,Laptop,Electronics,1,45000,UPI
+1006,06-10-2026,Ananya Singh,ananya@gmail.com,9876543215,HYDERABAD,Mobile,Electronics,2,25000,upi
+1007,07-10-2026,Kiran Kumar,kiran@gmail.com,9876543216,Banglore,Monitor,Electronics,1,12000,Cash
+1008,08-10-2026,Divya Reddy,divya@gmail.com,9876543217,Mumbai,Mouse,Accessories,,500,UPI
+1009,09-10-2026,Ajay Kumar,ajay@gmail.com,9876543218,Delhi,Keyboard,Accessories,2,,Credit Card
+1010,10-10-2026,Meena Rao,meena@gmail.com,9876543219,Chennai,Mobile,Electronics,1,25000,Cash
+1005,05-10-2026, Rahul Verma ,rahul@gmail.com,9876543214,Delhi,Laptop,Electronics,1,45000,UPI
+1011,11-10-2026, Suresh Reddy,suresh@gmail.com,9876543220,HYD,Laptop,electronics,2,45000,UPI
+1012,12-10-2026,Pooja Sharma,pooja@gmail.com,9876543221,Chennai,Mouse,Accessories,4,500,upi
+1013,13-10-2026,Ramesh Kumar,ramesh@gmail.com,9876543222,Delhi,Monitor,Electronics,1,12000,Cash
+1014,14-10-2026,Neha Singh,neha@gmail.com,9876543223,Mumbai,Mobile,Electronics,2,25000,Credit Card
+1015,15-10-2026,Varun Rao,varun@gmail.com,9876543224,Bengaluru,Keyboard,Accessories,3,1200,UPI
+1016,16-10-2026,Swathi Reddy,swathi@gmail.com,9876543225,Chennai,Mouse,accessories,2,500,Cash
+1017,17-10-2026,Karthik, k k@gmail.com,9876543226,Hyderabad,Laptop,Electronics,1,45000,UPI
+1018,18-10-2026,Manoj Kumar,manoj@gmail.com,9876543227,Delhi,Monitor,Electronics,2,12000,Credit Card
+1019,19-10-2026,Harika Rao,harika@gmail.com,9876543228,Mumbai,Mobile,Electronics,1,25000,Cash
